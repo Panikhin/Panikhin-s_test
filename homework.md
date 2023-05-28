@@ -3,7 +3,7 @@
 
 ![Разработчик](Снимок.jpg)
 
-[GeekBrains](https://gb.ru)
+[GeekBrains ссылка](https://gb.ru)
 
 **Основые команды:**
 
